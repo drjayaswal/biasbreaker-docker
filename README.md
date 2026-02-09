@@ -1,4 +1,4 @@
-# BiasBreaker Docker Configuration
+# Basal Docker Configuration
 
 A ML-SaaS platform that detects and mitigates bias in document comparisons using advanced machine learning techniques.
 
@@ -13,7 +13,7 @@ A ML-SaaS platform that detects and mitigates bias in document comparisons using
 
 Clone the repository:
 ```bash
-git clone https://github.com/drjayaswal/biasbreaker-docker.git
+git clone https://github.com/drjayaswal/basal-docker.git
 cd biasbreaker-docker
 ```
 
@@ -31,6 +31,6 @@ docker compose up -d
 
 Contributions are welcome! Please refer to the related repositories:
 
-- **Frontend**: [Github](https://github.com/drjayaswal/biasbreaker-frontend.git)
-- **Backend**: [Github](https://github.com/drjayaswal/biasbreaker-backend.git)
-- **ML Server**: [Github](https://github.com/drjayaswal/biasbreaker-ml-server.git)
+- **Frontend**: [Github](https://github.com/drjayaswal/basal-frontend.git)
+- **Backend**: [Github](https://github.com/drjayaswal/basal-backend.git)
+- **ML Server**: [Github](https://github.com/drjayaswal/basal-ml-server.git)
